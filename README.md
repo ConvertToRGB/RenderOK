@@ -1,3 +1,5 @@
+ ![APM](https://img.shields.io/badge/python-2.7-green?style=flat-square)  ![APM](https://img.shields.io/apm/l/vim-mode?style=flat-square)
+
 # RenderOk
 
 Программа для отслеживания рендера и уведомления о его завершении.
